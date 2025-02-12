@@ -10,5 +10,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^13.6.4"
+  },
+  "dependencies": {
+    "curso_cypress": "file:"
   }
 }
