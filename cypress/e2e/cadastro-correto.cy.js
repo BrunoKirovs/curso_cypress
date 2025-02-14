@@ -1,5 +1,5 @@
 describe('template spec', () => {
-    it ('passes', () =>{
+    it ('Preencher os campos do formulário corretamente para cadastrar um novo usuário', () =>{
         cy.visit('https://adopet-frontend-cypress.vercel.app/');
         cy.get('[data-test="register-button"]').click();
         cy.get('[data-test="input-name"]').type('Ana de Jesus');
