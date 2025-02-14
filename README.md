@@ -10,4 +10,14 @@
 
      A principio os testes realizados o site da https://adopet-frontend-cypress.vercel.app/
 
--> 
+-> Commit ' Validação de Tela de Cadastro '
+
+     Foi realizado testes de cadastro simples dentro do ambiente da Adopet, onde realizamos o
+     processo de abertura como se fosse usuário seguindo um passo a passo, para criação de 
+     acesso.
+
+     Os testes realizados foram tanto para conseguir realizar o cadastro, como para validar se
+     as mensagens de erro ao realizar o preenchimento errado em algum campo estava sendo
+     identificados.
+
+
